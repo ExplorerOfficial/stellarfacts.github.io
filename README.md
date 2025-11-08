@@ -1,2 +1,2 @@
 # stellarfacts.github.io
-The official repository for my main website, stellarfacts.com.
+This is the official respository for my website. All the code in the site will be accessable here for you to see as reference as needed.
